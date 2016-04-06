@@ -1,0 +1,11 @@
+file: anchor.txt
+host: cfgov-next.demo.cfpb.gov
+date: Wed, 06 Apr 2016 11:44:19 (local)
+Linklint version: 2.3.5
+
+#------------------------------------------------------------
+# found   2 named anchors
+#------------------------------------------------------------
+/about-us/blog/how-to-protect-vulnerable-children-from-identity-theft/#dispute
+/about-us/blog/how-to-protect-vulnerable-children-from-identity-theft/#tips
+

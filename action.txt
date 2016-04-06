@@ -1,0 +1,43 @@
+file: action.txt
+host: cfgov-next.demo.cfpb.gov
+date: Wed, 06 Apr 2016 11:44:19 (local)
+Linklint version: 2.3.5
+
+#------------------------------------------------------------
+# -----  28 actions skipped
+#------------------------------------------------------------
+/about-us/blog/
+(/blog/category/ecoa/)
+/about-us/events
+/about-us/newsroom/
+(/newsroom/?topic=enforcement+servicemembers)
+/activity-log/
+/askcfpb/search/
+(/askcfpb/search?selected_facets=category_exact:student-loans)
+/data-research/research-reports
+/data-research/research-reports/
+(/reports/)
+/find-a-housing-counselor/
+/policy-compliance/amicus/briefs
+/policy-compliance/amicus/briefs/
+/policy-compliance/enforcement/actions
+/policy-compliance/enforcement/actions/
+(/administrativeadjudication/)
+/policy-compliance/enforcement/petitions
+/policy-compliance/enforcement/petitions/
+/policy-compliance/guidance/implementation-guidance
+/policy-compliance/guidance/implementation-guidance/
+(/regulatory-implementation/)
+/policy-compliance/guidance/supervision-examinations
+/policy-compliance/guidance/supervision-examinations/
+/policy-compliance/notice-opportunities-comment/archive-closed
+/policy-compliance/notice-opportunities-comment/archive-closed/
+/policy-compliance/notice-opportunities-comment/open-notices
+/policy-compliance/rulemaking/final-rules
+/policy-compliance/rulemaking/final-rules/
+/policy-compliance/rulemaking/rules-under-development
+/subscriptions/new/
+http://search.consumerfinance.gov/search
+https://public.govdelivery.com/accounts/USCFPB/subscribers/qualify
+https://public.govdelivery.com/service/process_ss.xml
+

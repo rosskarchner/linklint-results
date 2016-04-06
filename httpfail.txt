@@ -1,0 +1,402 @@
+file: httpfail.txt
+host: cfgov-next.demo.cfpb.gov
+date: Wed, 06 Apr 2016 11:44:19 (local)
+Linklint version: 2.3.5
+
+#------------------------------------------------------------
+# ----- 359 links: failed via http
+#------------------------------------------------------------
+172 urls: bad request (400)
+    /../askcfpb/100/what-is-the-difference-between-a-fixed-rate-and-adjustable-rate-mortgage-arm-loan.html
+    /../askcfpb/104/what-is-a-balloon-loan.html
+    /../askcfpb/112/what-is-an-fha-loan.html
+    /../askcfpb/113/what-is-a-va-loan.html
+    /../askcfpb/1157/can-creditor-garnish-my-social-security-benefits-pay-debt.html
+    /../askcfpb/1217/what-happens-if-my-reverse-mortgage-loan-balance-grows-larger-value-my-home.html
+    /../askcfpb/122/what-is-private-mortgage-insurance-how-does-pmi-work.html
+    /../askcfpb/1225/how-can-i-contact-nationwide-credit-reporting-companies-general-inquiries.html
+    /../askcfpb/1231/will-closing-credit-cards-i-already-have-increase-my-credit-score.html
+    /../askcfpb/1233/how-does-bankruptcy-affect-my-credit-score.html
+    /../askcfpb/1243/what-identity-theft.html
+    /../askcfpb/1245/should-i-use-credit-monitoring-service-protect-myself-identity-theft.html
+    /../askcfpb/1249/it-possible-remove-accurate-negative-information-my-credit-report.html
+    /../askcfpb/1251/what-credit-reporting-company.html
+    /../askcfpb/1251/what-credit-reporting-company.html%20
+    /../askcfpb/1263/how-do-credit-reporting-companies-get-my-information.html
+    /../askcfpb/1267/how-often-can-i-request-free-credit-report.html
+    /../askcfpb/130/whats-the-difference-between-a-mortgage-broker-and-a-mortgage-lender.html
+    /../askcfpb/1305/who-may-request-my-credit-report.html
+    /../askcfpb/1307/are-there-any-kinds-disputes-creditors-or-other-institutions-would-not-have-investigate-if-i-were-file-dispute-directly-them.html
+    /../askcfpb/1317/whats-a-credit-inquiry.html
+    /../askcfpb/1343/how-can-i-recognize-credit-repair-scam.html
+    /../askcfpb/135/what-is-the-difference-between-an-interest-rate-and-an-apr.html
+    /../askcfpb/1351/how-do-i-find-credit-counselor.html%20
+    /../askcfpb/1353/how-do-i-put-freeze-my-credit-report.html
+    /../askcfpb/1355/how-do-i-choose-which-credit-counselor-right-me.html
+    /../askcfpb/1359/how-can-i-spot-identity-theft.html
+    /../askcfpb/136/what-are-discount-points-or-points.html
+    /../askcfpb/136/what-are-discount-points-or-points.html%20
+    /../askcfpb/1377/can-i-make-issuers-stop-sending-me-credit-card-offers-mail.html
+    /../askcfpb/1381/what-is-a-judgement.html
+    /../askcfpb/1381/what-judgement.html
+    /../askcfpb/1385/what-garnishment.html
+    /../askcfpb/1385/what-is-a-garnishment.html
+    /../askcfpb/1387/6-what-original-creditor-and-what-difference-between-original-creditor-and-debt-collector.html
+    /../askcfpb/1389/what-statute-limitations.html
+    /../askcfpb/139/what-are-closing-costs.html
+    /../askcfpb/140/what-is-an-escrow-or-impound-account.html
+    /../askcfpb/140/what-is-an-escrow-or-impound-account.html%20
+    /../askcfpb/1403/what-if-i-believe-i-do-not-owe-debt-or-i-want-proof-debt.html
+    /../askcfpb/1407/24-if-i-tell-debt-collector-stop-contacting-me-can-it-still-report-my-debt-credit-reporting-bureaus.html
+    /../askcfpb/1411/how-do-i-get-debt-collector-stop-calling-me-if-its-not-my-debt.html
+    /../askcfpb/1417/can-debt-collector-increase-interest-rate-debt-i-owe.html
+    /../askcfpb/1429/i-have-been-sued-over-debt-i-think-past-statute-limitations-my-state-should-i-still-go-court.html
+    /../askcfpb/143/whats-a-lock-in-or-a-rate-lock.html
+    /../askcfpb/143/whats-a-lock-in-or-a-rate-lock.html%20
+    /../askcfpb/1433/how-do-i-find-attorney-represent-me-lawsuit-creditor-or-debt-collector.html
+    /../askcfpb/1445/can-debt-collector-put-lien-my-house-if-i-am-not-paying-my-debt.html
+    /../askcfpb/1451/what-credit-counseling.html
+    /../askcfpb/1453/how-do-i-find-credit-counselor.html
+    /../askcfpb/1457/what-are-debt-settlementdebt-relief-services.html
+    /../askcfpb/146/what-is-a-good-faith-estimate-what-is-a-gfe.html
+    /../askcfpb/1501/how-can-i-reduce-my-student-loan-interest-rate-under-servicemembers-civil-relief-act-scra.html
+    /../askcfpb/1509/what-should-i-do-if-i-have-reverse-mortgage-and-i-cant-pay-my-property-taxes-or-insurance.html
+    /../askcfpb/151/how-do-i-figure-out-what-my-monthly-payment-for-a-mortgage-loan-will-be.html
+    /../askcfpb/154/what-required-mortgage-closing-services-can-i-shop-for.html
+    /../askcfpb/154/what-required-services-can-i-shop-for.html
+    /../askcfpb/1549/how-do-i-find-attorney-my-state.html
+    /../askcfpb/1551/if-i-have-perkins-loan-and-i-am-interested-public-service-loan-forgiveness-pslf-what-do-i-need-know.html
+    /../askcfpb/1553/what-federal-direct-loan-how-do-i-find-out-what-kind-federal-loan-i-have.html
+    /../askcfpb/1555/what-pay-you-earn-paye-how-do-i-know-if-i-qualify.html
+    /../askcfpb/1557/im-servicemember-and-im-thinking-about-consolidating-my-student-loans-what-do-i-need-know.html
+    /../askcfpb/1561/i-understand-there-may-be-other-student-loan-benefits-certain-teachers-public-service-loan-forgiveness-always-best-choice.html
+    /../askcfpb/1563/i-want-certify-i-work-qualified-employer-order-qualify-public-service-loan-forgiveness-pslf-what-do-i-do.html
+    /../askcfpb/1573/what-does-it-mean-renew-or-roll-over-payday-loan.html
+    /../askcfpb/160/what-is-an-initial-escrow-deposit.html
+    /../askcfpb/160/what-is-an-initial-escrow-deposit.html%20
+    /../askcfpb/162/what-is-homeowners-insurance.html
+    /../askcfpb/1695/ive-been-contacted-debt-collector-and-need-help-responding-how-do-i-reply.html
+    /../askcfpb/170/i-applied-for-a-mortgage-loan-and-my-lender-denied-my-application-what-can-i-do.html%20
+    /../askcfpb/172/can-my-final-mortgage-costs-increase-from-what-was-on-my-Loan-Estimate.html
+    /../askcfpb/172/can-the-final-mortgage-costs-be-different-from-the-good-faith-estimate-gfe.html
+    /../askcfpb/1721/what-remittance-transfer-provider.html
+    /../askcfpb/176/what-is-a-mortgage-closing-what-happens-at-the-closing.html
+    /../askcfpb/1765/i-understand-companies-must-correct-certain-errors-international-money-transfers-what-types-errors-are-covered.html
+    /../askcfpb/178/what-is-a-hud-1.html
+    /../askcfpb/1789/what-qualified-mortgage.html
+    /../askcfpb/180/what-is-a-final-truth-in-lending-disclosure.html
+    /../askcfpb/180/what-is-a-truth-in-lending-disclosure.html
+    /../askcfpb/181/what-papers-should-i-get-at-or-before-a-mortgage-loan-closing.html
+    /../askcfpb/1813/what-are-specialty-consumer-reporting-agencies-and-what-kind-information-do-they-collect.html
+    /../askcfpb/1815/could-late-rent-payments-or-problems-landlord-be-my-credit-report.html
+    /../askcfpb/1817/does-my-history-paying-utility-bills-telephone-cable-electricity-or-water-go-my-credit-report.html
+    /../askcfpb/1819/do-bounced-checks-and-overdrafts-go-my-credit-report.html
+    /../askcfpb/1821/do-auto-and-homeowners-insurance-companies-share-my-information-about-claims-and-policies.html
+    /../askcfpb/1823/ive-been-looking-job-what-do-employers-see-when-they-do-credit-checks-and-background-checks.html
+    /../askcfpb/1837/how-can-i-find-out-whats-my-medical-payment-history.html
+    /../askcfpb/1845/what-fees-or-charges-are-paid-closing-and-who-pays-them.html
+    /../askcfpb/1855/how-do-i-dispute-error-my-servicer-about-my-mortgage.html
+    /../askcfpb/1857/how-do-i-request-information-my-mortgage-servicer-about-my-mortgage-loan.html
+    /../askcfpb/186/can-i-change-my-mind-after-i-sign-the-loan-closing-documents-for-my-second-mortgage-or-refinance-what-is-the-right-of-rescission.html
+    /../askcfpb/1861/how-can-i-safely-consolidate-my-credit-card-debt.html
+    /../askcfpb/187/how-long-do-i-have-to-rescind-on-a-mortgage-loan-and-when-does-the-right-of-rescission-start.html
+    /../askcfpb/1883/what-is-fico-score.html
+    /../askcfpb/1891/when-the-CFPB-uses-the-term-spouse-or-marriage-does-that-include-same-sex-spouse.html
+    /../askcfpb/1905/im-about-to-close-on-a-mortgage-what-are-the-key-steps-i-can-expect-in-the-mortgage-closing-process.html
+    /../askcfpb/1913/what-should-i-do-if-i-dont-understand-one-of-my-mortgage-closing-documents.html
+    /../askcfpb/1941/on-a-mortgage-whats-the-difference-between-my-principal-and-interest-payment-and-my-total-monthly-payment.html
+    /../askcfpb/1943/how-does-paying-down-a-mortgage-work.html
+    /../askcfpb/1945/are-condo-co-op-fees-or-homeowners-association-dues-included-in-my-monthly-mortgage-payment.html
+    /../askcfpb/1947/if-i-am-considering-an-adjustable-rate-mortgage-arm-what-should-i-look-out-for-in-the-fine-print.html
+    /../askcfpb/195/what-kind-of-information-may-be-available-on-my-periodic-mortgage-statement.html
+    /../askcfpb/1953/what-is-mortgage-insurance-and-how-does-it-work.html
+    /../askcfpb/1955/what-is-a-piggyback-second-mortgage.html
+    /../askcfpb/198/whats-the-difference-between-a-mortgage-lender-and-a-servicer.html
+    /../askcfpb/1983/what-is-a-closing-disclosure.html
+    /../askcfpb/1987/What-information-do-I-have-to-provide-a-lender-in-order-to-receive-a-Loan-Estimate.html
+    /../askcfpb/1989/my-loan-officer-said-that-I-need-to-express-my-intent-to-proceed-in-order-for-my-mortgage-loan-application-to-move-forward.html
+    /../askcfpb/1991/I-received-a-revised-Loan-Estimate-from-my-lender-showing-a-higher-interest-rate-and-increased-closing-costs.html
+    /../askcfpb/1995/what-is-a-loan-estimate.html
+    /../askcfpb/2007/my-appraisal-is-less-than-the-sale-price-what-does-that-mean-for-me.html
+    /../askcfpb/202/when-can-i-remove-private-mortgage-pmi-insurance-from-my-loan.html
+    /../askcfpb/224/what-is-a-reverse-mortgage.html
+    /../askcfpb/227/can-anyone-apply-for-a-reverse-mortgage-loan.html
+    /../askcfpb/230/what-questions-can-i-ask-a-housing-counselor-if-i-am-considering-a-reverse-mortgage.html
+    /../askcfpb/235/do-i-still-need-to-pay-my-property-taxes-and-home-insurance-with-a-reverse-mortgage-loan.html
+    /../askcfpb/243/what-happens-if-i-have-to-move-out-of-my-home-into-a-nursing-home-or-assisted-living-and-i-have-a-reverse-mortgage.html
+    /../askcfpb/246/my-lender-offered-me-a-home-equity-line-of-credit-heloc-what-is-a-heloc.html
+    /../askcfpb/268/if-i-cant-pay-my-mortgage-loan-what-are-my-options.html
+    /../askcfpb/269/what-is-a-mortgage-loan-modification.html
+    /../askcfpb/280/my-lender-servicer-said-i-could-go-on-a-repayment-plan-what-does-that-mean.html
+    /../askcfpb/287/how-does-foreclosure-work.html
+    /../askcfpb/289/what-is-forbearance.html
+    /../askcfpb/290/what-is-a-short-sale.html
+    /../askcfpb/291/what-is-a-deed-in-lieu-of-foreclosure.html
+    /../askcfpb/309/what-is-a-credit-report.html
+    /../askcfpb/311/how-do-i-get-a-copy-of-my-credit-report.html
+    /../askcfpb/313/what-should-i-look-for-in-my-credit-report-what-are-a-few-of-the-common-credit-report-errors.html
+    /../askcfpb/314/how-do-i-dispute-an-error-on-my-credit-report.html
+    /../askcfpb/315/what-is-my-credit-score.html
+    /../askcfpb/318/how-do-i-get-and-keep-a-good-credit-score.html
+    /../askcfpb/319/how-does-my-credit-score-affect-my-ability-to-get-a-mortgage-loan.html
+    /../askcfpb/320/will-i-automatically-get-good-interest-rates-if-i-have-a-good-credit-score.html
+    /../askcfpb/323/how-long-does-negative-information-remain-on-my-credit-report.html
+    /../askcfpb/325/i-filed-for-bankruptcy-how-long-will-that-appear-on-credit-reports.html
+    /../askcfpb/327/a-credit-repair-firm-sent-me-an-offer-outlining-their-credit-repair-program-should-i-enroll.html
+    /../askcfpb/329/what-is-the-fair-debt-collection-practices-act.html
+    /../askcfpb/330/what-is-a-debt-collector.html
+    /../askcfpb/335/can-debt-collectors-call-me-anytime-they-want-day-or-night-about-my-debt.html
+    /../askcfpb/336/what-constitutes-harassment-by-a-debt-collector.html
+    /../askcfpb/337/can-debt-collectors-call-my-employer-and-tell-them-they-are-calling-about-my-debts.html
+    /../askcfpb/44/what-is-a-credit-card-interest-rate-what-does-apr-mean.html
+    /../askcfpb/5/can-i-review-my-credit-report.html
+    /../askcfpb/603/should-i-consolidate-my-federal-loans.html
+    /../askcfpb/633/what-income-based-repayment-ibr.html
+    /../askcfpb/641/what-public-service-loan-forgiveness.html
+    /../askcfpb/649/what-does-it-mean-default-my-federal-student-loans.html
+    /../askcfpb/search/?selected_facets=category_exact:mortgages&selected_facets=tag_exact:mortgage%20closing%20
+    /../askcfpb/search?selected_facets=category_exact:mortgages&selected_facets=tag_exact:reverse mortgage
+    /../complaint
+    /../complaint/
+    /../f/201207_cfpb_list_consumer-reporting-agencies.pdf
+    /../f/201412_cfpb_reverse_mortgage_guidance.pdf
+    /../f/201509_cfpb_debt-collection-letter-3_stop-contacting.doc
+    /../find-a-housing-counselor/
+    /../owning-a-home/
+    /../owning-a-home/check-rates/
+    /../owning-a-home/closing-disclosure
+    /../owning-a-home/closing-disclosure/
+    /../owning-a-home/loan-estimate
+    /../owning-a-home/loan-estimate/
+    /../owning-a-home/loan-options
+    /../owning-a-home/loan-options/
+    /../owning-a-home/loan-options/FHA-loans
+    /../owning-a-home/loan-options/conventional-loans
+    /../owning-a-home/loan-options/special-loan-programs/
+    /../owning-a-home/process/close
+    /../owning-a-home/process/compare
+    /../owning-a-home/resources/checklist_mortgage_closing.pdf
+    /../owning-a-home/resources/mortgage_closing_forms.pdf
+    /../paying-for-college/
+    /../pledge
+
+1 url: infinite redirect loop
+    /retirement/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim
+
+9 urls: internal server error (500)
+    /askcfpb/search/?selected_facets=category_exact:auto-loans&selected_facets=category_exact:discrimination
+    /askcfpb/search/?selected_facets=category_exact:auto-loans&selected_facets=category_exact:protections-servicemembers
+    /askcfpb/search/?selected_facets=category_exact:debt-collection&selected_facets=category_exact:protections-servicemembers
+    /askcfpb/search/?selected_facets=category_exact:definitions
+    /askcfpb/search/?selected_facets=category_exact:mortgages&selected_facets=category_exact:definitions
+    /askcfpb/search/?selected_facets=category_exact:payday-loans&selected_facets=category_exact:other-questions
+    /askcfpb/search/?selected_facets=category_exact:prepaid-cards&selected_facets=category_exact:definitions
+    /askcfpb/search/?selected_facets=category_exact:student-loans&selected_facets=category_exact:discrimination
+    /leadership-calendar/
+
+24 urls: malformed status line
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+            
+            
+            
+            
+            
+            
+            
+            
+        http:/twitter.com/intent/tweet?url=http%3A/cfgov-next.demo.cfpb.gov/about-us/careers/application-process/&amp;via=CFPB&amp;text=
+        http:/twitter.com/intent/tweet?url=http%3A/cfgov-next.demo.cfpb.gov/about-us/the-bureau/&amp;via=CFPB&amp;text=
+    /external-site/?ext_url=
+    /external-site/?ext_url=
+
+146 urls: not found (404)
+    /ProjectCatalyst/
+    /_/img/us_flag_small.png
+    /about-us/events/spring-2016-credit-union-advisory-council-meeting-washington-dc/
+    /about-us/newsroom/cfpb-releases-tools-to-protect-foster-care-children-from-credit-reporting-errors/www.consumerfinance.gov
+    /budget/
+    /d/askcfpb/1865/how-do-I-check-to-see-if-my-child-has-credit-report.html
+    /data-research/research-reports/a-snapshot-of-servicemember-complaints/
+    /data-research/research-reports/overseas-underserved-student-loan-servicing-and-the-cost-to-our-men-and-women-in-uniform/
+    /data-research/research-reports/servicemembers-2015-a-year-in-review/
+    /data-research/research-reports/snapshot-of-reverse-mortgage-complaints-december-2011-2014/
+    /eregulations/
+    /eregulations/1005/
+    /facebook.com/cfpb&
+    /feed/
+    /github.com/cfpb/proxy-methodology&
+    /https:/www.federalregister.gov/select-citation/2015/10/28/12-CFR-1003
+    /https:/www.federalregister.gov/select-citation/2016/02/10/12-CFR-1024
+    /https:/www.federalregister.gov/select-citation/2016/02/10/12-CFR-1026
+    /know-before-you-owe/
+    /know-before-you-owe/real-estate-professionals/
+    /knowbeforeyouowe/
+    /lang/
+    /mortgage.nationwidelicensingsystem.org/&
+    /no-fear-act/
+    /offices/office-of-civil-rights/
+    /ombudsman/
+    /opeds/debt-deja-vu-for-students/
+    /opeds/student-debt-domino-effect/
+    /owning-a-home/check-rates/
+    /owning-a-home/resources/checklist_mortgage_closing.pdf
+    /owning-a-home/resources/mortgage_closing_forms.pdf
+    /owning-a-home/static/img/arm-graphic.png
+    /policy-compliance/amicus-program/
+    /policy-compliance/guidance/supervision-and-examinations/
+    /policy-compliance/guidance/supervision/manual/
+    /pressreleases/consumer-financial-protection-bureau-and-department-of-education-partner-on-new-financial-aid-shopping-sheet/
+    /privacy/system-records-notices/generic-email-sign-privacy-act-statement/
+    /regulations/table-of-applicable-citations-and-corresponding-provisions-for-rural-and-underserved-counties/
+    /speeches/prepared-remarks-by-richard-cordray-for-the-private-student-loan-report-press-call/
+    /speeches/prepared-remarks-by-richard-cordray-in-a-press-call-about-the-financial-aid-shopping-sheet/
+    /speeches/press-call-on-proposed-rule-on-student-loan-servicers/
+    /speeches/remarks-by-rohit-chopra-to-the-congressional-forum-on-student-loans/
+    /speeches/student-debt-swells-federal-loans-now-top-a-trillion/
+    /speeches/written-testimony-of-rohit-chopra-before-the-senate-committee-on-banking-housing-and-urban-affairs/
+    /strategic-plan-budget-and-performance-plan-and-report/
+    /studentdebtstress/
+    /tax-preparer-resources/cfpb_tax-prep_checklist_2016.pdf
+    /tax-preparer-resources/cfpb_tax-prep_checklist_2016_es.pdf
+    /tax-preparer-resources/cfpb_tax-prep_easy-ways-to-save_2016.pdf
+    /tax-preparer-resources/cfpb_tax-prep_easy-ways-to-save_2016_es.pdf
+    /tax-preparer-resources/cfpb_tax-prep_flyer_2016_es_preview.pdf
+    /tax-preparer-resources/cfpb_tax-prep_flyer_2016_preview.pdf
+    /tax-preparer-resources/cfpb_tax-prep_lg-poster-1_2016_es_preview.pdf
+    /tax-preparer-resources/cfpb_tax-prep_lg-poster-1_2016_preview.pdf
+    /tax-preparer-resources/cfpb_tax-prep_lg-poster-2_2016_es_preview.pdf
+    /tax-preparer-resources/cfpb_tax-prep_lg-poster-2_2016_preview.pdf
+    /tax-preparer-resources/cfpb_tax-prep_on-site-checklist_2016.pdf
+    /tax-preparer-resources/cfpb_tax-prep_on-site-checklist_2016_es.pdf
+    /tax-preparer-resources/cfpb_tax-prep_printable-poster_2016.pdf
+    /tax-preparer-resources/cfpb_tax-prep_printable-poster_2016_es.pdf
+    /tax-preparer-resources/cfpb_tax-prep_ready-set-save-workbook_2016.pdf
+    /tax-preparer-resources/cfpb_tax-prep_refund-worksheet_2016.pdf
+    /tax-preparer-resources/cfpb_tax-prep_refund-worksheet_2016_es.pdf
+    /tax-preparer-resources/cfpb_tax-prep_saving-webinar_2016_transcript.docx
+    /tax-preparer-resources/cfpb_tax-prep_share_fb.png
+    /tax-preparer-resources/cfpb_tax-prep_share_fb_es.png
+    /tax-preparer-resources/cfpb_tax-prep_share_tw.png
+    /tax-preparer-resources/cfpb_tax-prep_share_tw_es.png
+    /tax-preparer-resources/cfpb_tax-prep_table-tent_2016_es_preview.pdf
+    /tax-preparer-resources/cfpb_tax-prep_table-tent_2016_preview.pdf
+    /testimonies/the-cfpb-before-the-senate-committee-on-banking-housing-and-urban-affairs/
+    /the-cfpb-wants-you-to-blow-the-whistle-on-lawbreakers/
+    /twitter.com/cfpb&
+    /twitter.com/intent/tweet?url=http:/cfgov-next.demo.cfpb.gov/about-us/blog/7-factors-that-determine-your-mortgage-interest-rate/&text=7%20factors%20that%20determine%20your%20mortgage%20interest%20rate%20--&via=CFPB&related=cfpb
+    /twitter.com/intent/tweet?url=http:/cfgov-next.demo.cfpb.gov/about-us/blog/evaluating-ways-to-promote-regular-saving-habits-among-prepaid-card-users/&text=Evaluating%20ways%20to%20promote%20regular%20saving%20habits%20among%20prepaid%20card%20users%20--&via=CFPB&related=cfpb
+    /twitter.com/intent/tweet?url=http:/cfgov-next.demo.cfpb.gov/about-us/blog/its-not-too-late-to-share-your-studentdebtstress-story/&text=It%E2%80%99s%20not%20too%20late%20to%20share%20your%20%23studentdebtstress%20story%20--&via=CFPB&related=cfpb
+    /twitter.com/intent/tweet?url=http:/cfgov-next.demo.cfpb.gov/about-us/blog/live-from-brookings-institution-in-dc-helping-america-plan-for-retirement/&text=Live%20from%20Brookings%20Institution%20in%20D.C.%3A%20Helping%20America%20Plan%20for%20Retirement%20--&via=CFPB&related=cfpb
+    /twitter.com/intent/tweet?url=http:/cfgov-next.demo.cfpb.gov/about-us/blog/mortgage-moves-how-much-can-you-afford/&text=Mortgage%20Moves%3A%20How%20much%20can%20you%20afford%3F%20--&via=CFPB&related=cfpb
+    /twitter.com/intent/tweet?url=http:/cfgov-next.demo.cfpb.gov/about-us/blog/proposed-changes-to-our-mortgage-servicing-rules-new-protections-for-surviving-family-members-and-other-homeowners/&text=Proposed%20changes%20to%20our%20Mortgage%20Servicing%20Rules%3A%20New%20protections%20for%20surviving%20family%20members%20and%20other%20homeowners%20--&via=CFPB&related=cfpb
+    /twitter.com/intent/tweet?url=http:/cfgov-next.demo.cfpb.gov/about-us/blog/servicemembers-2015-a-year-in-review/&text=Servicemembers%202015%3A%20A%20year%20in%20Review%20--&via=CFPB&related=cfpb
+    /twitter.com/intent/tweet?url=http:/cfgov-next.demo.cfpb.gov/about-us/blog/tell-us-about-your-student-debt-stress/&text=Tell%20us%20about%20your%20student%20debt%20stress%20--&via=CFPB&related=cfpb
+    /twitter.com/intent/tweet?url=http:/cfgov-next.demo.cfpb.gov/about-us/newsroom/cfpb-and-boston-team-up-to-help-local-consumers-with-questions-and-complaints/&text=CFPB%20and%20Boston%20Team%20Up%20to%20Help%20Local%20Consumers%20with%20Questions%20and%20Complaints%20--&via=CFPB&related=cfpb
+    /twitter.com/intent/tweet?url=http:/cfgov-next.demo.cfpb.gov/about-us/newsroom/cfpb-and-doj-reach-resolution-with-toyota-motor-credit-to-address-loan-pricing-policies-with-discriminatory-effects/&text=CFPB%20and%20DOJ%20Reach%20Resolution%20With%20Toyota%20Motor%20Credit%20To%20Address%20Loan%20Pricing%20Policies%20With%20Discriminatory%20Effects%20--&via=CFPB&related=cfpb
+    /twitter.com/intent/tweet?url=http:/cfgov-next.demo.cfpb.gov/about-us/newsroom/cfpb-calls-on-top-credit-card-companies-to-make-credit-scores-available-to-consumers/&text=CFPB%20Calls%20on%20Top%20Credit%20Card%20Companies%20to%20Make%20Credit%20Scores%20Available%20to%20Consumers%20--&via=CFPB&related=cfpb
+    /twitter.com/intent/tweet?url=http:/cfgov-next.demo.cfpb.gov/about-us/newsroom/cfpb-orders-subprime-credit-reporting-company-and-owner-to-pay-8-million-penalty-for-illegal-practices/&text=CFPB%20Orders%20Subprime%20Credit%20Reporting%20Company%20and%20Owner%20to%20Pay%20%248%20Million%20Penalty%20for%20Illegal%20Practices%20--&via=CFPB&related=cfpb
+    /twitter.com/intent/tweet?url=http:/cfgov-next.demo.cfpb.gov/about-us/newsroom/cfpb-report-finds-26-million-consumers-are-credit-invisible/&text=CFPB%20Report%20Finds%2026%20Million%20Consumers%20Are%20Credit%20Invisible%20--&via=CFPB&related=cfpb
+    /twitter.com/intent/tweet?url=http:/cfgov-next.demo.cfpb.gov/about-us/newsroom/cfpb-rule-broadens-qualified-mortgage-coverage-of-lenders-operating-in-rural-and-underserved-areas/&text=CFPB%20Rule%20Broadens%20Qualified%20Mortgage%20Coverage%20of%20Lenders%20Operating%20in%20Rural%20and%20Underserved%20Areas%20--&via=CFPB&related=cfpb
+    /twitter.com/intent/tweet?url=http:/cfgov-next.demo.cfpb.gov/about-us/newsroom/cfpb-supervision-of-banks-and-nonbanks-recovers-14-3-million-for-consumers/&text=CFPB%20Supervision%20of%20Banks%20and%20Nonbanks%20Recovers%20%2414.3%20Million%20for%20Consumers%20--&via=CFPB&related=cfpb
+    /twitter.com/intent/tweet?url=http:/cfgov-next.demo.cfpb.gov/about-us/newsroom/cfpb-takes-action-against-lead-aggregators-for-online-trafficking-of-personal-information/&text=CFPB%20Takes%20Action%20Against%20Lead%20Aggregators%20for%20Online%20Trafficking%20of%20Personal%20Information%20--&via=CFPB&related=cfpb
+    /twitter.com/intent/tweet?url=http:/cfgov-next.demo.cfpb.gov/about-us/newsroom/prepared-remarks-of-cfpb-director-richard-cordray-at-the-consumer-advisory-board-meeting-20150219/&text=Prepared%20Remarks%20of%20CFPB%20Director%20Richard%20Cordray%20at%20the%20Consumer%20Advisory%20Board%20Meeting%20--&via=CFPB&related=cfpb
+    /twitter.com/intent/tweet?url=http:/cfgov-next.demo.cfpb.gov/about-us/newsroom/prepared-remarks-of-cfpb-director-richard-cordray-at-the-consumer-advisory-board-meeting-20160225/&text=Prepared%20Remarks%20of%20CFPB%20Director%20Richard%20Cordray%20at%20the%20Consumer%20Advisory%20Board%20Meeting%20--&via=CFPB&related=cfpb
+    /twitter.com/intent/tweet?url=http:/cfgov-next.demo.cfpb.gov/about-us/newsroom/prepared-remarks-of-cfpb-director-richard-cordray-at-the-mobile-request-for-information-field-hearing/&text=Prepared%20Remarks%20of%20CFPB%20Director%20Richard%20Cordray%20at%20the%20Mobile%20Request%20for%20Information%20Field%20Hearing%20--&via=CFPB&related=cfpb
+    /twitter.com/intent/tweet?url=http:/cfgov-next.demo.cfpb.gov/about-us/newsroom/prepared-remarks-of-cfpb-director-richard-cordray-at-the-national-association-of-attorneys-general-2/&text=Prepared%20Remarks%20of%20CFPB%20Director%20Richard%20Cordray%20at%20the%20National%20Association%20of%20Attorneys%20General%20--&via=CFPB&related=cfpb
+    /twitter.com/intent/tweet?url=http:/cfgov-next.demo.cfpb.gov/about-us/newsroom/prepared-remarks-of-cfpb-director-richard-cordray-on-the-credit-reporting-press-call/&text=Prepared%20Remarks%20of%20CFPB%20Director%20Richard%20Cordray%20on%20the%20Credit%20Reporting%20Press%20Call%20--&via=CFPB&related=cfpb
+    /wp-content/uploads/2011/10/olderAmericans_people.png
+    /wp-content/uploads/2011/10/olderAmericans_slices_03.png
+    /wp-content/uploads/2011/10/olderAmericans_slices_09.png
+    /wp-content/uploads/2011/10/olderAmericans_slices_12.png
+    /wp-content/uploads/2012/01/Memorandum_KBYOStudentLoans_FeedbackSummary_Jan2012.pdf
+    /www.annualcreditreport.com/&
+    /www.consumercomplianceoutlook.org/outlook-live/2014/FAQ-on-TILA-RESPA-Integrated-Disclosures-Rule/&
+    /www.consumercomplianceoutlook.org/outlook-live/2014/TILA-RESPA-Integrated-Disclosures-Rule/&
+    /www.consumercomplianceoutlook.org/outlook-live/2015/TILA-RESPA-Integrated-Disclosures-Rule-5/&
+    /www.facebook.com/dialog/share?app_id=210516218981921&href=http%3A/cfgov-next.demo.cfpb.gov/about-us/blog/final-list-of-rural-and-underserved-counties-for-use-in-2014/&display=page&redirect_uri=http%3A/cfgov-next.demo.cfpb.gov/about-us/blog/final-list-of-rural-and-underserved-counties-for-use-in-2014/
+    /www.facebook.com/dialog/share?app_id=210516218981921&href=http%3A/cfgov-next.demo.cfpb.gov/about-us/blog/how-to-protect-vulnerable-children-from-identity-theft/&display=page&redirect_uri=http%3A/cfgov-next.demo.cfpb.gov/about-us/blog/how-to-protect-vulnerable-children-from-identity-theft/
+    /www.facebook.com/dialog/share?app_id=210516218981921&href=http%3A/cfgov-next.demo.cfpb.gov/about-us/blog/its-not-too-late-to-share-your-studentdebtstress-story/&display=page&redirect_uri=http%3A/cfgov-next.demo.cfpb.gov/about-us/blog/its-not-too-late-to-share-your-studentdebtstress-story/
+    /www.facebook.com/dialog/share?app_id=210516218981921&href=http%3A/cfgov-next.demo.cfpb.gov/about-us/newsroom/cfpb-and-boston-team-up-to-help-local-consumers-with-questions-and-complaints/&display=page&redirect_uri=http%3A/cfgov-next.demo.cfpb.gov/about-us/newsroom/cfpb-and-boston-team-up-to-help-local-consumers-with-questions-and-complaints/
+    /www.facebook.com/dialog/share?app_id=210516218981921&href=http%3A/cfgov-next.demo.cfpb.gov/about-us/newsroom/cfpb-and-doj-reach-resolution-with-toyota-motor-credit-to-address-loan-pricing-policies-with-discriminatory-effects/&display=page&redirect_uri=http%3A/cfgov-next.demo.cfpb.gov/about-us/newsroom/cfpb-and-doj-reach-resolution-with-toyota-motor-credit-to-address-loan-pricing-policies-with-discriminatory-effects/
+    /www.facebook.com/dialog/share?app_id=210516218981921&href=http%3A/cfgov-next.demo.cfpb.gov/about-us/newsroom/cfpb-orders-subprime-credit-reporting-company-and-owner-to-pay-8-million-penalty-for-illegal-practices/&display=page&redirect_uri=http%3A/cfgov-next.demo.cfpb.gov/about-us/newsroom/cfpb-orders-subprime-credit-reporting-company-and-owner-to-pay-8-million-penalty-for-illegal-practices/
+    /www.facebook.com/dialog/share?app_id=210516218981921&href=http%3A/cfgov-next.demo.cfpb.gov/about-us/newsroom/cfpb-report-finds-26-million-consumers-are-credit-invisible/&display=page&redirect_uri=http%3A/cfgov-next.demo.cfpb.gov/about-us/newsroom/cfpb-report-finds-26-million-consumers-are-credit-invisible/
+    /www.facebook.com/dialog/share?app_id=210516218981921&href=http%3A/cfgov-next.demo.cfpb.gov/about-us/newsroom/cfpb-rule-broadens-qualified-mortgage-coverage-of-lenders-operating-in-rural-and-underserved-areas/&display=page&redirect_uri=http%3A/cfgov-next.demo.cfpb.gov/about-us/newsroom/cfpb-rule-broadens-qualified-mortgage-coverage-of-lenders-operating-in-rural-and-underserved-areas/
+    /www.facebook.com/dialog/share?app_id=210516218981921&href=http%3A/cfgov-next.demo.cfpb.gov/about-us/newsroom/cfpb-supervision-of-banks-and-nonbanks-recovers-14-3-million-for-consumers/&display=page&redirect_uri=http%3A/cfgov-next.demo.cfpb.gov/about-us/newsroom/cfpb-supervision-of-banks-and-nonbanks-recovers-14-3-million-for-consumers/
+    /www.facebook.com/dialog/share?app_id=210516218981921&href=http%3A/cfgov-next.demo.cfpb.gov/about-us/newsroom/cfpb-takes-action-against-lead-aggregators-for-online-trafficking-of-personal-information/&display=page&redirect_uri=http%3A/cfgov-next.demo.cfpb.gov/about-us/newsroom/cfpb-takes-action-against-lead-aggregators-for-online-trafficking-of-personal-information/
+    /www.facebook.com/dialog/share?app_id=210516218981921&href=http%3A/cfgov-next.demo.cfpb.gov/about-us/newsroom/prepared-remarks-of-cfpb-director-richard-cordray-at-the-consumer-advisory-board-meeting-20150219/&display=page&redirect_uri=http%3A/cfgov-next.demo.cfpb.gov/about-us/newsroom/prepared-remarks-of-cfpb-director-richard-cordray-at-the-consumer-advisory-board-meeting-20150219/
+    /www.facebook.com/dialog/share?app_id=210516218981921&href=http%3A/cfgov-next.demo.cfpb.gov/about-us/newsroom/prepared-remarks-of-cfpb-director-richard-cordray-at-the-consumer-advisory-board-meeting-20160225/&display=page&redirect_uri=http%3A/cfgov-next.demo.cfpb.gov/about-us/newsroom/prepared-remarks-of-cfpb-director-richard-cordray-at-the-consumer-advisory-board-meeting-20160225/
+    /www.facebook.com/dialog/share?app_id=210516218981921&href=http%3A/cfgov-next.demo.cfpb.gov/about-us/newsroom/prepared-remarks-of-cfpb-director-richard-cordray-at-the-mobile-request-for-information-field-hearing/&display=page&redirect_uri=http%3A/cfgov-next.demo.cfpb.gov/about-us/newsroom/prepared-remarks-of-cfpb-director-richard-cordray-at-the-mobile-request-for-information-field-hearing/
+    /www.facebook.com/dialog/share?app_id=210516218981921&href=http%3A/cfgov-next.demo.cfpb.gov/about-us/newsroom/prepared-remarks-of-cfpb-director-richard-cordray-at-the-national-association-of-attorneys-general-2/&display=page&redirect_uri=http%3A/cfgov-next.demo.cfpb.gov/about-us/newsroom/prepared-remarks-of-cfpb-director-richard-cordray-at-the-national-association-of-attorneys-general-2/
+    /www.facebook.com/dialog/share?app_id=210516218981921&href=http%3A/cfgov-next.demo.cfpb.gov/about-us/newsroom/prepared-remarks-of-cfpb-director-richard-cordray-on-the-credit-reporting-press-call/&display=page&redirect_uri=http%3A/cfgov-next.demo.cfpb.gov/about-us/newsroom/prepared-remarks-of-cfpb-director-richard-cordray-on-the-credit-reporting-press-call/
+    /www.fanniemae.com/singlefamily/uniform-closing-dataset&
+    /www.flickr.com/photos/cfpbphotos&
+    /www.law.cornell.edu/uscode/text/5/552a&
+    /www.linkedin.com/company/consumer-financial-protection-bureau&
+    /www.linkedin.com/shareArticle?mini=true&url=http%3A/cfgov-next.demo.cfpb.gov/about-us/blog/7-factors-that-determine-your-mortgage-interest-rate/&title=7%20factors%20that%20determine%20your%20mortgage%20interest%20rate%20Developer%20Network
+    /www.linkedin.com/shareArticle?mini=true&url=http%3A/cfgov-next.demo.cfpb.gov/about-us/blog/a-final-rule-that-makes-mortgage-disclosure-better-for-consumers/&title=A%20final%20rule%20that%20makes%20mortgage%20disclosure%20better%20for%20consumers%20Developer%20Network
+    /www.linkedin.com/shareArticle?mini=true&url=http%3A/cfgov-next.demo.cfpb.gov/about-us/blog/final-list-of-rural-and-underserved-counties-for-use-in-2014/&title=Final%20list%20of%20rural%20and%20underserved%20counties%20for%20use%20in%202014%20Developer%20Network
+    /www.linkedin.com/shareArticle?mini=true&url=http%3A/cfgov-next.demo.cfpb.gov/about-us/blog/how-to-protect-vulnerable-children-from-identity-theft/&title=How%20to%20protect%20vulnerable%20children%20from%20credit%20reporting%20problems%20Developer%20Network
+    /www.linkedin.com/shareArticle?mini=true&url=http%3A/cfgov-next.demo.cfpb.gov/about-us/blog/its-not-too-late-to-share-your-studentdebtstress-story/&title=It%E2%80%99s%20not%20too%20late%20to%20share%20your%20%23studentdebtstress%20story%20Developer%20Network
+    /www.linkedin.com/shareArticle?mini=true&url=http%3A/cfgov-next.demo.cfpb.gov/about-us/blog/live-from-brookings-institution-in-dc-helping-america-plan-for-retirement/&title=Live%20from%20Brookings%20Institution%20in%20D.C.%3A%20Helping%20America%20Plan%20for%20Retirement%20Developer%20Network
+    /www.linkedin.com/shareArticle?mini=true&url=http%3A/cfgov-next.demo.cfpb.gov/about-us/blog/partnering-in-an-information-sharing-agreement-with-the-navajo-nation-to-protect-tribal-consumers/&title=Partnering%20in%20an%20information%20sharing%20agreement%20with%20the%20Navajo%20Nation%20to%20protect%20tribal%20consumers%20Developer%20Network
+    /www.linkedin.com/shareArticle?mini=true&url=http%3A/cfgov-next.demo.cfpb.gov/about-us/blog/servicemembers-2015-a-year-in-review/&title=Servicemembers%202015%3A%20A%20year%20in%20Review%20Developer%20Network
+    /www.linkedin.com/shareArticle?mini=true&url=http%3A/cfgov-next.demo.cfpb.gov/about-us/blog/your-feedback-on-know-before-you-owe-student-loans/&title=Your%20feedback%20on%20Know%20Before%20You%20Owe%3A%20Student%20Loans%20Developer%20Network
+    /www.linkedin.com/shareArticle?mini=true&url=http%3A/cfgov-next.demo.cfpb.gov/about-us/newsroom/cfpb-and-boston-team-up-to-help-local-consumers-with-questions-and-complaints/&title=CFPB%20and%20Boston%20Team%20Up%20to%20Help%20Local%20Consumers%20with%20Questions%20and%20Complaints%20Developer%20Network
+    /www.linkedin.com/shareArticle?mini=true&url=http%3A/cfgov-next.demo.cfpb.gov/about-us/newsroom/cfpb-calls-on-top-credit-card-companies-to-make-credit-scores-available-to-consumers/&title=CFPB%20Calls%20on%20Top%20Credit%20Card%20Companies%20to%20Make%20Credit%20Scores%20Available%20to%20Consumers%20Developer%20Network
+    /www.linkedin.com/shareArticle?mini=true&url=http%3A/cfgov-next.demo.cfpb.gov/about-us/newsroom/cfpb-orders-subprime-credit-reporting-company-and-owner-to-pay-8-million-penalty-for-illegal-practices/&title=CFPB%20Orders%20Subprime%20Credit%20Reporting%20Company%20and%20Owner%20to%20Pay%20%248%20Million%20Penalty%20for%20Illegal%20Practices%20Developer%20Network
+    /www.linkedin.com/shareArticle?mini=true&url=http%3A/cfgov-next.demo.cfpb.gov/about-us/newsroom/cfpb-releases-tools-to-protect-foster-care-children-from-credit-reporting-errors/&title=CFPB%20Releases%20Tools%20To%20Protect%20Foster%20Care%20Children%20From%20Credit%20Reporting%20Problems%20Developer%20Network
+    /www.linkedin.com/shareArticle?mini=true&url=http%3A/cfgov-next.demo.cfpb.gov/about-us/newsroom/cfpb-report-finds-26-million-consumers-are-credit-invisible/&title=CFPB%20Report%20Finds%2026%20Million%20Consumers%20Are%20Credit%20Invisible%20Developer%20Network
+    /www.linkedin.com/shareArticle?mini=true&url=http%3A/cfgov-next.demo.cfpb.gov/about-us/newsroom/cfpb-supervision-of-banks-and-nonbanks-recovers-14-3-million-for-consumers/&title=CFPB%20Supervision%20of%20Banks%20and%20Nonbanks%20Recovers%20%2414.3%20Million%20for%20Consumers%20Developer%20Network
+    /www.linkedin.com/shareArticle?mini=true&url=http%3A/cfgov-next.demo.cfpb.gov/about-us/newsroom/cfpb-takes-action-against-lead-aggregators-for-online-trafficking-of-personal-information/&title=CFPB%20Takes%20Action%20Against%20Lead%20Aggregators%20for%20Online%20Trafficking%20of%20Personal%20Information%20Developer%20Network
+    /www.linkedin.com/shareArticle?mini=true&url=http%3A/cfgov-next.demo.cfpb.gov/about-us/newsroom/prepared-remarks-of-cfpb-director-richard-cordray-at-the-american-bankers-association-annual-convention/&title=Prepared%20Remarks%20of%20CFPB%20Director%20Richard%20Cordray%20at%20the%20American%20Bankers%20Association%20Annual%20Convention%20Developer%20Network
+    /www.linkedin.com/shareArticle?mini=true&url=http%3A/cfgov-next.demo.cfpb.gov/about-us/newsroom/prepared-remarks-of-cfpb-director-richard-cordray-at-the-consumer-advisory-board-meeting-20160225/&title=Prepared%20Remarks%20of%20CFPB%20Director%20Richard%20Cordray%20at%20the%20Consumer%20Advisory%20Board%20Meeting%20Developer%20Network
+    /www.linkedin.com/shareArticle?mini=true&url=http%3A/cfgov-next.demo.cfpb.gov/about-us/newsroom/prepared-remarks-of-cfpb-director-richard-cordray-at-the-mobile-request-for-information-field-hearing/&title=Prepared%20Remarks%20of%20CFPB%20Director%20Richard%20Cordray%20at%20the%20Mobile%20Request%20for%20Information%20Field%20Hearing%20Developer%20Network
+    /www.linkedin.com/shareArticle?mini=true&url=http%3A/cfgov-next.demo.cfpb.gov/about-us/newsroom/prepared-remarks-of-cfpb-director-richard-cordray-at-the-national-association-of-attorneys-general-2/&title=Prepared%20Remarks%20of%20CFPB%20Director%20Richard%20Cordray%20at%20the%20National%20Association%20of%20Attorneys%20General%20Developer%20Network
+    /www.linkedin.com/shareArticle?mini=true&url=http%3A/cfgov-next.demo.cfpb.gov/about-us/newsroom/prepared-remarks-of-cfpb-director-richard-cordray-on-the-credit-reporting-press-call/&title=Prepared%20Remarks%20of%20CFPB%20Director%20Richard%20Cordray%20on%20the%20Credit%20Reporting%20Press%20Call%20Developer%20Network
+    /www.nsmbsurvey.com/&
+    /www.youtube.com/user/cfpbvideo&
+    /www.youtube.com/watch?v=fh3TGcXIC4I&
+
+29 urls: timed out waiting for data
+    /about-us/blog/?filter_blog_category=Info+for+Consumers&filter_range_date_gte=&filter_range_date_lte=
+    /about-us/events/archive-past-events/
+    /about-us/newsroom/?filter_tags=Autos
+    /about-us/newsroom/?filter_tags=Discrimination&page=2
+    /about-us/newsroom/cfpb-and-doj-take-action-against-national-city-bank-for-discriminatory-mortgage-pricing/
+    /about-us/newsroom/cfpb-director-richard-cordrays-prepared-lecture-on-economic-rights-as-civil-rights-at-michigan-state-university/
+    /about-us/newsroom/cfpb-provides-guidance-to-help-lenders-avoid-discrimination-against-consumers-receiving-disability-income/
+    /about-us/newsroom/cfpb-takes-action-against-fifth-third-bank-for-auto-lending-discrimination-and-illegal-credit-card-practices/
+    /about-us/newsroom/prepared-remarks-of-cfpb-director-richard-cordray-at-the-greenlining-institutes-economic-summit/
+    /about-us/newsroom/prepared-remarks-of-cfpb-director-richard-cordray-on-the-ge-capital-enforcement-action-press-call/
+    /askcfpb/1639/i-have-pre-schooler-who-starting-ask-treats-when-we-go-shopping-what-can-i-do-start-teaching-her-things-cost-money.html
+    /askcfpb/1649/when-we-go-shopping-how-can-i-explain-we-cant-afford-buy-all-things-my-children-want.html
+    /askcfpb/1677/my-teens-are-starting-part-time-jobs-and-asking-questions-about-credit-what-should-i-be-telling-them-about-money.html
+    /askcfpb/search/?selected_facets=audience_exact:Older+Americans&selected_facets=category_exact:families-money&selected_facets=category_exact:retirement-and-social-security
+    /askcfpb/search/?selected_facets=audience_exact:Older+Americans&selected_facets=category_exact:families-money&selected_facets=category_exact:teaching-money-basics-kids
+    /askcfpb/search/?selected_facets=category_exact%3Afamilies-money
+    /askcfpb/search/?selected_facets=category_exact%3Afamilies-money&page=2
+    /askcfpb/search/?selected_facets=category_exact%3Astudent-loans&page=2
+    /askcfpb/search/?selected_facets=category_exact:families-money&selected_facets=category_exact:retirement-and-social-security
+    /askcfpb/search/?selected_facets=category_exact:student-loans&selected_facets=category_exact:other-questions
+    /external-site/?ext_url=http:/twitter.com/intent/tweet?url=http%3A/cfgov-next.demo.cfpb.gov/about-us/blog/partnering-in-an-information-sharing-agreement-with-the-navajo-nation-to-protect-tribal-consumers/&via=CFPB&text=Partnering%20in%20an%20information%20sharing%20agreement%20with%20the%20Navajo%20Nation%20to%20protect%20tribal%20consumers%20--&related=cfpb
+    /external-site/?ext_url=https:/www.facebook.com/dialog/share?app_id=210516218981921&display=page&href=http%3A/cfgov-next.demo.cfpb.gov/about-us/blog/partnering-in-an-information-sharing-agreement-with-the-navajo-nation-to-protect-tribal-consumers/&redirect_uri=http%3A/cfgov-next.demo.cfpb.gov/about-us/blog/partnering-in-an-information-sharing-agreement-with-the-navajo-nation-to-protect-tribal-consumers/
+    /external-site/?ext_url=https:/www.linkedin.com/shareArticle?mini=true&url=http%3A/cfgov-next.demo.cfpb.gov/about-us/newsroom/cfpb-and-doj-order-ally-to-pay-80-million-to-consumers-harmed-by-discriminatory-auto-loan-pricing/&title=CFPB%20and%20DOJ%20Order%20Ally%20to%20Pay%20%2480%20Million%20to%20Consumers%20Harmed%20by%20Discriminatory%20Auto%20Loan%20Pricing%20Developer%20Network
+    /external-site/?ext_url=mailto:?subject=CFPB%20and%20DOJ%20Order%20Ally%20to%20Pay%20%2480%20Million%20to%20Consumers%20Harmed%20by%20Discriminatory%20Auto%20Loan%20Pricing&body=Check out this page from the CFPB - http%3A/cfgov-next.demo.cfpb.gov/about-us/newsroom/cfpb-and-doj-order-ally-to-pay-80-million-to-consumers-harmed-by-discriminatory-auto-loan-pricing/
+    /external-site/?ext_url=mailto:?subject=CFPB%20and%20DOJ%20Reach%20Resolution%20With%20Toyota%20Motor%20Credit%20To%20Address%20Loan%20Pricing%20Policies%20With%20Discriminatory%20Effects&body=Check out this page from the CFPB - http%3A/cfgov-next.demo.cfpb.gov/about-us/newsroom/cfpb-and-doj-reach-resolution-with-toyota-motor-credit-to-address-loan-pricing-policies-with-discriminatory-effects/
+    /external-site/?ext_url=mailto:?subject=Prepared%20Remarks%20of%20CFPB%20Director%20Richard%20Cordray%20at%20the%20National%20Association%20of%20Attorneys%20General&body=Check out this page from the CFPB - http%3A/cfgov-next.demo.cfpb.gov/about-us/newsroom/prepared-remarks-of-cfpb-director-richard-cordray-at-the-national-association-of-attorneys-general-2/
+    /policy-compliance/enforcement/petitions/accrediting-council-independent-colleges-schools/
+    /policy-compliance/enforcement/petitions/francesca-giampiccolo/
+    /policy-compliance/enforcement/petitions/moneymutual/
+
+

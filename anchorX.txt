@@ -1,0 +1,17 @@
+file: anchorX.txt
+host: cfgov-next.demo.cfpb.gov
+date: Wed, 06 Apr 2016 11:44:19 (local)
+Linklint version: 2.3.5
+
+#------------------------------------------------------------
+# found   2 named anchors (cross referenced)
+#------------------------------------------------------------
+/about-us/blog/how-to-protect-vulnerable-children-from-identity-theft/#dispute
+    used in 1 file:
+    /about-us/newsroom/cfpb-releases-tools-to-protect-foster-care-children-from-credit-reporting-errors/
+
+/about-us/blog/how-to-protect-vulnerable-children-from-identity-theft/#tips
+    used in 2 files:
+    /about-us/newsroom/cfpb-releases-tools-to-protect-foster-care-children-from-credit-reporting-errors/
+    /empowerment/
+

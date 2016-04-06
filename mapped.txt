@@ -1,0 +1,612 @@
+file: mapped.txt
+host: cfgov-next.demo.cfpb.gov
+date: Wed, 06 Apr 2016 11:44:19 (local)
+Linklint version: 2.3.5
+
+#------------------------------------------------------------
+# ----- 151 links were mapped
+#------------------------------------------------------------
+/administrativeadjudication/
+    mapped to
+    /policy-compliance/enforcement/actions/
+
+/advisory-groups/
+    mapped to
+    /about-us/advisory-groups/
+
+/amicus/
+    mapped to
+    /policy-compliance/amicus-program/
+
+/askcfpb/1451/askcfpb/1387/6-what-original-creditor-and-what-difference-between-original-creditor-and-debt-collector.html
+    mapped to
+    /askcfpb/1451/what-credit-counseling.html
+
+/askcfpb/search?selected_facets=category_exact:student-loans
+    mapped to
+    /askcfpb/search/
+
+/askcfpb/search?selected_facets=tag_exact%3AChild+Identity+Theft
+    mapped to
+    /askcfpb/search/
+
+/askcfpb/search?selected_facets=tag_exact%3Adiscrimination
+    mapped to
+    /askcfpb/search/
+
+/askcfpb/search?selected_facets=tag_exact%3Afoster+youth
+    mapped to
+    /askcfpb/search/
+
+/blog
+    mapped to
+    /about-us/blog/
+
+/blog/
+    mapped to
+    /about-us/blog/
+
+/blog/3-tips-to-help-you-make-the-most-of-your-tax-refund/
+    mapped to
+    /about-us/blog/3-tips-to-help-you-make-the-most-of-your-tax-refund/
+
+/blog/7-factors-that-determine-your-mortgage-interest-rate/
+    mapped to
+    /about-us/blog/7-factors-that-determine-your-mortgage-interest-rate/
+
+/blog/?filter_blog_category=Policy+%26amp%3B+Compliance&filter_range-date-gte=&filter_range-date-lte=
+    mapped to
+    /about-us/blog/
+
+/blog/a-federal-partnership-to-increase-financial-capability-for-workers-with-disabilities/
+    mapped to
+    /about-us/blog/a-federal-partnership-to-increase-financial-capability-for-workers-with-disabilities/
+
+/blog/accountability-in-military-education
+    mapped to
+    /about-us/blog/accountability-in-military-education/
+
+/blog/are-unpaid-debts-a-military-career-killer/
+    mapped to
+    /about-us/blog/are-unpaid-debts-a-military-career-killer/
+
+/blog/category/ecoa/
+    mapped to
+    /about-us/blog/
+
+/blog/category/older-americans/
+    mapped to
+    /about-us/blog/
+
+/blog/category/project-catalyst/
+    mapped to
+    /about-us/blog/
+
+/blog/category/students/
+    mapped to
+    /about-us/blog/
+
+/blog/consumer-advisory-3-pension-advance-traps-to-avoid/
+    mapped to
+    /about-us/blog/consumer-advisory-3-pension-advance-traps-to-avoid/
+
+/blog/consumer-advisory-your-benefits-are-protected-from-garnishment/
+    mapped to
+    /about-us/blog/consumer-advisory-your-benefits-are-protected-from-garnishment/
+
+/blog/debt-settlement-company-morgan-drexen-is-no-longer-in-business-what-you-should-know/
+    mapped to
+    /about-us/blog/debt-settlement-company-morgan-drexen-is-no-longer-in-business-what-you-should-know/
+
+/blog/debtcollection/
+    mapped to
+    /about-us/blog/debtcollection/
+
+/blog/does-your-college-help-you-know-before-you-owe/
+    mapped to
+    /about-us/blog/does-your-college-help-you-know-before-you-owe/
+
+/blog/dont-be-a-zombie-with-your-personal-finances/
+    mapped to
+    /about-us/blog/dont-be-a-zombie-with-your-personal-finances/
+
+/blog/evaluating-ways-to-promote-regular-saving-habits-among-prepaid-card-users/
+    mapped to
+    /about-us/blog/evaluating-ways-to-promote-regular-saving-habits-among-prepaid-card-users/
+
+/blog/fall-2015-rulemaking-agenda/
+    mapped to
+    /about-us/blog/fall-2015-rulemaking-agenda/
+
+/blog/final-list-of-rural-and-or-underserved-counties-for-use-in-2013/
+    mapped to
+    /about-us/blog/final-list-of-rural-and-or-underserved-counties-for-use-in-2013/
+
+/blog/forum-on-access-to-checking-accounts/
+    mapped to
+    /about-us/blog/forum-on-access-to-checking-accounts/
+
+/blog/freedom-stores-to-provide-over-2-5-million-in-refunds-and-penalties/
+    mapped to
+    /about-us/blog/freedom-stores-to-provide-over-2-5-million-in-refunds-and-penalties/
+
+/blog/guides-to-help-you-open-and-manage-your-checking-account/
+    mapped to
+    /about-us/blog/guides-to-help-you-open-and-manage-your-checking-account/
+
+/blog/heres-what-were-hearing-from-servicemembers-and-their-families/
+    mapped to
+    /about-us/blog/heres-what-were-hearing-from-servicemembers-and-their-families/
+
+/blog/heres-why-childhood-is-an-important-time-to-learn-about-money/
+    mapped to
+    /about-us/blog/heres-why-childhood-is-an-important-time-to-learn-about-money/
+
+/blog/how-to-protect-vulnerable-children-from-identity-theft/
+    mapped to
+    /about-us/blog/how-to-protect-vulnerable-children-from-identity-theft/
+
+/blog/information-for-those-involved-with-pension-funding-llc-and-pension-income-llc/
+    mapped to
+    /about-us/blog/information-for-those-involved-with-pension-funding-llc-and-pension-income-llc/
+
+/blog/live-from-milwaukee/
+    mapped to
+    /about-us/blog/live-from-milwaukee/
+
+/blog/managing-someone-elses-money/
+    mapped to
+    /about-us/blog/managing-someone-elses-money/
+
+/blog/mortgage-moves-how-much-can-you-afford/
+    mapped to
+    /about-us/blog/mortgage-moves-how-much-can-you-afford/
+
+/blog/mortgage-moves-where-will-you-start/
+    mapped to
+    /about-us/blog/mortgage-moves-where-will-you-start/
+
+/blog/new-insights-on-bank-overdraft-fees-and-4-ways-to-avoid-them/
+    mapped to
+    /about-us/blog/new-insights-on-bank-overdraft-fees-and-4-ways-to-avoid-them/
+
+/blog/our-priorities-to-ensure-a-fair-marketplace/
+    mapped to
+    /about-us/blog/our-priorities-to-ensure-a-fair-marketplace/
+
+/blog/partnering-in-an-information-sharing-agreement-with-the-navajo-nation-to-protect-tribal-consumers/
+    mapped to
+    /about-us/blog/partnering-in-an-information-sharing-agreement-with-the-navajo-nation-to-protect-tribal-consumers/
+
+/blog/reminder-accessing-your-scholarships-and-student-loan-funds/
+    mapped to
+    /about-us/blog/reminder-accessing-your-scholarships-and-student-loan-funds/
+
+/blog/servicemembers-2015-a-year-in-review/
+    mapped to
+    /about-us/blog/servicemembers-2015-a-year-in-review/
+
+/blog/servicemembers-protecting-your-credit-when-youre-away-from-home/
+    mapped to
+    /about-us/blog/servicemembers-protecting-your-credit-when-youre-away-from-home/
+
+/blog/social-security-disability-income-shouldnt-mean-you-dont-qualify-for-a-mortgage/
+    mapped to
+    /about-us/blog/social-security-disability-income-shouldnt-mean-you-dont-qualify-for-a-mortgage/
+
+/blog/struggling-private-student-loan-borrowers-still-searching-for-help/
+    mapped to
+    /about-us/blog/struggling-private-student-loan-borrowers-still-searching-for-help/
+
+/blog/tell-us-about-your-student-debt-stress/
+    mapped to
+    /about-us/blog/tell-us-about-your-student-debt-stress/
+
+/blog/the-cfpb-wants-you-to-blow-the-whistle-on-lawbreakers/
+    mapped to
+    /about-us/blog/the-cfpb-wants-you-to-blow-the-whistle-on-lawbreakers/
+
+/blog/the-launch-of-the-cfpb-financial-coaching-initiative/
+    mapped to
+    /about-us/blog/the-launch-of-the-cfpb-financial-coaching-initiative/
+
+/blog/the-newcomers-guides-to-managing-money/
+    mapped to
+    /about-us/blog/the-newcomers-guides-to-managing-money/
+
+/blog/the-right-shoes-and-common-sense-can-help-your-preteen-gain-financial-ground/
+    mapped to
+    /about-us/blog/the-right-shoes-and-common-sense-can-help-your-preteen-gain-financial-ground/
+
+/blog/the-teenage-years-are-for-practicing-money-decisions-in-a-safe-space/
+    mapped to
+    /about-us/blog/the-teenage-years-are-for-practicing-money-decisions-in-a-safe-space/
+
+/blog/the-va-doesnt-send-you-mortgage-ads/
+    mapped to
+    /about-us/blog/the-va-doesnt-send-you-mortgage-ads/
+
+/blog/thousands-of-voices-on-private-student-loans/
+    mapped to
+    /about-us/blog/thousands-of-voices-on-private-student-loans/
+
+/blog/too-big-to-fail-student-debt-hits-a-trillion/
+    mapped to
+    /about-us/blog/too-big-to-fail-student-debt-hits-a-trillion/
+
+/blog/veterans-dont-let-student-loan-forgiveness-damage-your-credit/
+    mapped to
+    /about-us/blog/veterans-dont-let-student-loan-forgiveness-damage-your-credit/
+
+/blog/what-you-should-know-about-military-allotments/
+    mapped to
+    /about-us/blog/what-you-should-know-about-military-allotments/
+
+/blog/when-your-child-learns-self-control-it-helps-their-financial-future-too/
+    mapped to
+    /about-us/blog/when-your-child-learns-self-control-it-helps-their-financial-future-too/
+
+/blog/working-to-improve-the-financial-lives-of-people-with-disabilities/
+    mapped to
+    /about-us/blog/working-to-improve-the-financial-lives-of-people-with-disabilities/
+
+/blog/working-together-to-protect-student-veterans/
+    mapped to
+    /about-us/blog/working-together-to-protect-student-veterans/
+
+/blog/your-feedback-on-know-before-you-owe-student-loans/
+    mapped to
+    /about-us/blog/your-feedback-on-know-before-you-owe-student-loans/
+
+/complaintdatabase
+    mapped to
+    /data-research/consumer-complaints/
+
+/complaintdatabase/
+    mapped to
+    /data-research/consumer-complaints/
+
+/contact-us/
+    mapped to
+    /about-us/contact-us/
+
+/doing-business-with-us/
+    mapped to
+    /about-us/doing-business-with-us/
+
+/equal-employment-opportunity/whistleblowers/
+    mapped to
+    /office-civil-rights/whistleblowers/
+
+/foia/
+    mapped to
+    /foia-requests/
+
+/guidance/
+    mapped to
+    /policy-compliance/guidance/
+
+/guidance/supervision/manual/
+    mapped to
+    /policy-compliance/guidance/supervision/manual/
+
+/hmda
+    mapped to
+    /data-research/mortgage-data-hmda/
+
+/hmda/for-filers
+    mapped to
+    /data-research/mortgage-data-hmda/for-filers
+
+/jobs/
+    mapped to
+    /about-us/careers/
+
+/newsroom
+    mapped to
+    /about-us/newsroom/
+
+/newsroom/
+    mapped to
+    /about-us/newsroom/
+
+/newsroom/41199/
+    mapped to
+    /about-us/newsroom/41199/
+
+/newsroom/?topic=enforcement+servicemembers
+    mapped to
+    /about-us/newsroom/
+
+/newsroom/cfpb-and-doj-order-ally-to-pay-80-million-to-consumers-harmed-by-discriminatory-auto-loan-pricing/
+    mapped to
+    /about-us/newsroom/cfpb-and-doj-order-ally-to-pay-80-million-to-consumers-harmed-by-discriminatory-auto-loan-pricing/
+
+/newsroom/cfpb-and-states-take-action-against-freedom-stores-for-illegal-debt-collection-practices-against-servicemembers/
+    mapped to
+    /about-us/newsroom/cfpb-and-states-take-action-against-freedom-stores-for-illegal-debt-collection-practices-against-servicemembers/
+
+/newsroom/cfpb-announces-project-catalyst-research-pilot-on-tax-time-saving/
+    mapped to
+    /about-us/newsroom/cfpb-announces-project-catalyst-research-pilot-on-tax-time-saving/
+
+/newsroom/cfpb-announces-project-catalyst-research-pilot/
+    mapped to
+    /about-us/newsroom/cfpb-announces-project-catalyst-research-pilot/
+
+/newsroom/cfpb-cautions-military-lenders-against-illegal-military-allotment-practices/
+    mapped to
+    /about-us/newsroom/cfpb-cautions-military-lenders-against-illegal-military-allotment-practices/
+
+/newsroom/cfpb-finalizes-two-month-extension-of-know-before-you-owe-effective-date/
+    mapped to
+    /about-us/newsroom/cfpb-finalizes-two-month-extension-of-know-before-you-owe-effective-date/
+
+/newsroom/cfpb-issues-statement-on-department-of-defenses-military-allotment-system-reforms-to-protect-servicemembers/
+    mapped to
+    /about-us/newsroom/cfpb-issues-statement-on-department-of-defenses-military-allotment-system-reforms-to-protect-servicemembers/
+
+/newsroom/cfpb-lays-out-guidelines-for-protecting-servicemembers-in-the-payday-lending-market/
+    mapped to
+    /about-us/newsroom/cfpb-lays-out-guidelines-for-protecting-servicemembers-in-the-payday-lending-market/
+
+/newsroom/cfpb-orders-servicemember-auto-loan-company-to-pay-3-28-million-for-illegal-debt-collection-tactics/
+    mapped to
+    /about-us/newsroom/cfpb-orders-servicemember-auto-loan-company-to-pay-3-28-million-for-illegal-debt-collection-tactics/
+
+/newsroom/cfpb-proposes-expanded-foreclosure-protections/
+    mapped to
+    /about-us/newsroom/cfpb-proposes-expanded-foreclosure-protections/
+
+/newsroom/cfpb-releases-statement-on-department-of-defense-proposal-to-amend-military-lending-act-rule/
+    mapped to
+    /about-us/newsroom/cfpb-releases-statement-on-department-of-defense-proposal-to-amend-military-lending-act-rule/
+
+/newsroom/cfpb-report-finds-loopholes-in-military-lending-act-rules-rack-up-costs-for-servicemembers/
+    mapped to
+    /about-us/newsroom/cfpb-report-finds-loopholes-in-military-lending-act-rules-rack-up-costs-for-servicemembers/
+
+/newsroom/cfpb-spotlights-concerns-with-medical-debt-collection-and-reporting/
+    mapped to
+    /about-us/newsroom/cfpb-spotlights-concerns-with-medical-debt-collection-and-reporting/
+
+/newsroom/cfpb-statement-on-department-of-defense-military-lending-act-final-rule/
+    mapped to
+    /about-us/newsroom/cfpb-statement-on-department-of-defense-military-lending-act-final-rule/
+
+/newsroom/cfpb-takes-action-against-military-allotment-processor-for-charging-servicemembers-hidden-fees/
+    mapped to
+    /about-us/newsroom/cfpb-takes-action-against-military-allotment-processor-for-charging-servicemembers-hidden-fees/
+
+/newsroom/cfpb-takes-action-against-mortgage-lender-for-deceptive-advertising/
+    mapped to
+    /about-us/newsroom/cfpb-takes-action-against-mortgage-lender-for-deceptive-advertising/
+
+/newsroom/cfpb-takes-action-to-shut-down-illegal-student-debt-relief-scheme/
+    mapped to
+    /about-us/newsroom/cfpb-takes-action-to-shut-down-illegal-student-debt-relief-scheme/
+
+/newsroom/consumer-financial-protection-bureau-and-justice-department-pledge-to-work-together-to-protect-consumers-from-credit-discrimination/
+    mapped to
+    /about-us/newsroom/consumer-financial-protection-bureau-and-justice-department-pledge-to-work-together-to-protect-consumers-from-credit-discrimination/
+
+/newsroom/consumer-financial-protection-bureau-considers-rules-on-prepaid-cards/
+    mapped to
+    /about-us/newsroom/consumer-financial-protection-bureau-considers-rules-on-prepaid-cards/
+
+/newsroom/consumer-financial-protection-bureau-takes-action-against-payday-lender-for-robo-signing/
+    mapped to
+    /about-us/newsroom/consumer-financial-protection-bureau-takes-action-against-payday-lender-for-robo-signing/
+
+/newsroom/director-cordray-remarks-at-the-cfpb-banking-on-campus-forum/
+    mapped to
+    /about-us/newsroom/director-cordray-remarks-at-the-cfpb-banking-on-campus-forum/
+
+/newsroom/hollister-k-petraeus-before-the-u-s-senate-committee-on-commerce-science-transportation/
+    mapped to
+    /about-us/newsroom/hollister-k-petraeus-before-the-u-s-senate-committee-on-commerce-science-transportation/
+
+/newsroom/prepared-remarks-of-cfpb-director-richard-cordray-at-the-consumer-bankers-association/
+    mapped to
+    /about-us/newsroom/prepared-remarks-of-cfpb-director-richard-cordray-at-the-consumer-bankers-association/
+
+/newsroom/prepared-remarks-of-cfpb-director-richard-cordray-at-the-field-hearing-on-student-loans/
+    mapped to
+    /about-us/newsroom/prepared-remarks-of-cfpb-director-richard-cordray-at-the-field-hearing-on-student-loans/
+
+/newsroom/prepared-remarks-of-cfpb-director-richard-cordray-on-retirement-planning-at-the-brookings-institution/
+    mapped to
+    /about-us/newsroom/prepared-remarks-of-cfpb-director-richard-cordray-on-retirement-planning-at-the-brookings-institution/
+
+/newsroom/student-loan-ombudsman-rohit-chopra-before-the-federal-reserve-bank-of-st-louis/
+    mapped to
+    /about-us/newsroom/student-loan-ombudsman-rohit-chopra-before-the-federal-reserve-bank-of-st-louis/
+
+/newsroom/the-cfpb-releases-exam-procedures-for-new-mortgage-rules/
+    mapped to
+    /about-us/newsroom/the-cfpb-releases-exam-procedures-for-new-mortgage-rules/
+
+/newsroom/written-testimony-of-cfpb-director-richard-cordray-before-the-house-committee-on-financial-services-20160316/
+    mapped to
+    /about-us/newsroom/written-testimony-of-cfpb-director-richard-cordray-before-the-house-committee-on-financial-services-20160316/
+
+/newsroom/written-testimony-of-rohit-chopra-before-the-committee-on-the-budget/
+    mapped to
+    /about-us/newsroom/written-testimony-of-rohit-chopra-before-the-committee-on-the-budget/
+
+/notice-and-comment/
+    mapped to
+    /policy-compliance/notice-opportunities-comment/
+
+/open/
+    mapped to
+    /open-government/
+
+/privacy-policy
+    mapped to
+    /privacy/digital-privacy-policy/
+
+/privacy-policy/
+    mapped to
+    /privacy/digital-privacy-policy/
+
+/privacy/generic-email-sign-privacy-act-statement/
+    mapped to
+    /privacy/system-records-notices/generic-email-sign-privacy-act-statement/
+
+/regulations/
+    mapped to
+    /policy-compliance/rulemaking/
+
+/regulations/2013-real-estate-settlement-procedures-act-regulation-x-and-truth-in-lending-act-regulation-z-mortgage-servicing-final-rules/
+    mapped to
+    /policy-compliance/rulemaking/final-rules/2013-real-estate-settlement-procedures-act-regulation-x-and-truth-lending-act-regulation-z-mortgage-servicing-final-rules/
+
+/regulations/ability-to-repay-and-qualified-mortgage-standards-under-the-truth-in-lending-act-regulation-z/
+    mapped to
+    /policy-compliance/rulemaking/final-rules/ability-repay-and-qualified-mortgage-standards-under-truth-lending-act-regulation-z/
+
+/regulations/appraisals-for-higher-priced-mortgage-loans/
+    mapped to
+    /policy-compliance/rulemaking/final-rules/appraisals-higher-priced-mortgage-loans/
+
+/regulations/escrow-requirements-under-the-truth-in-lending-act-regulation-z/
+    mapped to
+    /policy-compliance/rulemaking/final-rules/escrow-requirements-under-truth-lending-act-regulation-z/
+
+/regulations/high-cost-mortgage-and-homeownership-counseling-amendments-to-regulation-z-and-homeownership-counseling-amendments-to-regulation-x/
+    mapped to
+    /policy-compliance/rulemaking/final-rules/high-cost-mortgage-and-homeownership-counseling-amendments-truth-lending-act-regulation-z-and-homeownership-counseling-amendments-real-estate-settlement-procedures-act-regulation-x/
+
+/regulations/integrated-mortgage-disclosures-under-the-real-estate-settlement-procedures-act-regulation-x-and-the-truth-in-lending-act-regulation-z/
+    mapped to
+    /policy-compliance/rulemaking/final-rules/2013-integrated-mortgage-disclosure-rule-under-real-estate-settlement-procedures-act-regulation-x-and-truth-lending-act-regulation-z/
+
+/regulatory-implementation/
+    mapped to
+    /policy-compliance/guidance/implementation-guidance/
+
+/reports/
+    mapped to
+    /data-research/research-reports/
+
+/reports/2014-fair-lending-report/
+    mapped to
+    /data-research/research-reports/2014-fair-lending-report/
+
+/reports/a-snapshot-of-servicemember-complaints/
+    mapped to
+    /data-research/research-reports/a-snapshot-of-servicemember-complaints/
+
+/reports/advancing-k-12-financial-education-a-guide-for-policymakers/
+    mapped to
+    /data-research/research-reports/advancing-k-12-financial-education-a-guide-for-policymakers/
+
+/reports/annual-report-of-the-cfpb-student-loan-ombudsman-2013/
+    mapped to
+    /data-research/research-reports/annual-report-of-the-cfpb-student-loan-ombudsman-2013/
+
+/reports/annual-report-of-the-cfpb-student-loan-ombudsman-2014/
+    mapped to
+    /data-research/research-reports/annual-report-of-the-cfpb-student-loan-ombudsman-2014/
+
+/reports/building-financial-capability-in-youth-employment-programs/
+    mapped to
+    /data-research/research-reports/building-financial-capability-in-youth-employment-programs/
+
+/reports/consumer-voices-on-credit-reports-and-scores/
+    mapped to
+    /data-research/research-reports/consumer-voices-on-credit-reports-and-scores/
+
+/reports/consumers-mortgage-shopping-experience/
+    mapped to
+    /data-research/research-reports/consumers-mortgage-shopping-experience/
+
+/reports/data-point-credit-invisibles/
+    mapped to
+    /data-research/research-reports/data-point-credit-invisibles/
+
+/reports/feedback-from-the-financial-education-field/
+    mapped to
+    /data-research/research-reports/feedback-from-the-financial-education-field/
+
+/reports/financial-well-being/
+    mapped to
+    /data-research/research-reports/financial-well-being/
+
+/reports/financial-wellness-at-work/
+    mapped to
+    /data-research/research-reports/financial-wellness-at-work/
+
+/reports/navigating-the-market/
+    mapped to
+    /data-research/research-reports/navigating-the-market/
+
+/reports/overseas-underserved-student-loan-servicing-and-the-cost-to-our-men-and-women-in-uniform/
+    mapped to
+    /data-research/research-reports/overseas-underserved-student-loan-servicing-and-the-cost-to-our-men-and-women-in-uniform/
+
+/reports/private-student-loans-report/
+    mapped to
+    /data-research/research-reports/private-student-loans-report/
+
+/reports/public-service-and-student-debt/
+    mapped to
+    /data-research/research-reports/public-service-and-student-debt/
+
+/reports/rigorous-evaluation-of-financial-capability-strategies-why-when-and-how/
+    mapped to
+    /data-research/research-reports/rigorous-evaluation-of-financial-capability-strategies-why-when-and-how/
+
+/reports/servicemembers-2015-a-year-in-review/
+    mapped to
+    /data-research/research-reports/servicemembers-2015-a-year-in-review/
+
+/reports/snapshot-of-reverse-mortgage-complaints-december-2011-2014/
+    mapped to
+    /data-research/research-reports/snapshot-of-reverse-mortgage-complaints-december-2011-2014/
+
+/reports/student-loan-affordability/
+    mapped to
+    /data-research/research-reports/student-loan-affordability/
+
+/reports/study-of-prepaid-account-agreements/
+    mapped to
+    /data-research/research-reports/study-of-prepaid-account-agreements/
+
+/reports/supervisory-highlights-winter-2016/
+    mapped to
+    /data-research/research-reports/supervisory-highlights-winter-2016/
+
+/reports/the-cfpb-study-of-overdraft-programs/
+    mapped to
+    /data-research/research-reports/the-cfpb-study-of-overdraft-programs/
+
+/reports/the-next-front-student-loan-servicing-and-the-cost-to-our-men-and-women-in-uniform/
+    mapped to
+    /data-research/research-reports/the-next-front-student-loan-servicing-and-the-cost-to-our-men-and-women-in-uniform/
+
+/reports/transforming-the-financial-lives-of-a-generation-of-young-americans/
+    mapped to
+    /data-research/research-reports/transforming-the-financial-lives-of-a-generation-of-young-americans/
+
+/retirement/
+    mapped to
+    /retirement/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim
+
+/retirement/before-you-claim/
+    mapped to
+    /retirement/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim
+
+/retirement/before-you-claim/es/
+    mapped to
+    /retirement/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim/before-you-claim
+
+/small-financial-services-providers/
+    mapped to
+    /policy-compliance/community-banks-credit-unions/
+
+/the-bureau/
+    mapped to
+    /about-us/the-bureau/
+

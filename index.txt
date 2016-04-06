@@ -1,0 +1,31 @@
+file: index.txt
+host: cfgov-next.demo.cfpb.gov
+date: Wed, 06 Apr 2016 11:44:19 (local)
+Linklint version: 2.3.5
+
+ summary.txt: summary of results
+     log.txt: log of progress
+     file.txt: found 2279 files
+    fileX.txt: found 2279 files (cross referenced)
+    fileF.txt: found 1000 files with forward links
+   remote.txt: found 1605 other links
+  remoteX.txt: found 1605 other links (cross referenced)
+   anchor.txt: found   2 named anchors
+  anchorX.txt: found   2 named anchors (cross referenced)
+   ignore.txt: -----   1 ignored file
+  ignoreX.txt: -----   1 ignored file (cross referenced)
+   action.txt: -----  28 actions skipped
+  actionX.txt: -----  28 actions skipped (cross referenced)
+  skipped.txt: ----- 1117 files skipped
+    skipX.txt: ----- 1117 files skipped (cross referenced)
+     warn.txt: warn  444 warnings
+    warnX.txt: warn  444 warnings (cross referenced)
+    warnF.txt: warn  598 files with warnings
+    error.txt: ERROR 358 missing files
+   errorX.txt: ERROR 358 missing files (cross referenced)
+   errorF.txt: ERROR 975 files had broken links
+   errorA.txt: ERROR 3547 missing named anchors
+  errorAX.txt: ERROR 3547 missing named anchors (cross referenced)
+ httpfail.txt: ----- 359 links: failed via http
+   httpok.txt: ----- 2279 links: ok via http
+   mapped.txt: ----- 151 links were mapped

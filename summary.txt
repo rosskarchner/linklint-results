@@ -1,0 +1,29 @@
+file: summary.txt
+host: cfgov-next.demo.cfpb.gov
+date: Wed, 06 Apr 2016 11:44:19 (local)
+Linklint version: 2.3.5
+
+Linklint found 2279 files and checked 1000 html files.
+There were 358 missing files. 975 files had broken links.
+3905 errors, 444 warnings.
+
+found 848 default indexes
+found 638 cgi files
+found 643 html files
+found  11 image files
+found 139 other files
+found 1301 http links
+found 230 https links
+found   1 javascript link
+found  66 mailto links
+found   7 unknown links
+found   2 named anchors
+-----   1 ignored file
+-----  28 actions skipped
+----- 1117 files skipped
+warn  444 warnings
+ERROR  75 missing directories
+ERROR  67 missing cgi files
+ERROR 144 missing html files
+ERROR  72 missing other files
+ERROR 3547 missing named anchors
